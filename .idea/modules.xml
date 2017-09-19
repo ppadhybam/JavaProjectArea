@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicPrograms/BasicPrograms.iml" filepath="$PROJECT_DIR$/BasicPrograms/BasicPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollections/Exceptions.iml" filepath="$PROJECT_DIR$/JavaCollections/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/JavaBasics.iml" filepath="$PROJECT_DIR$/JavaBasics/JavaBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollections/JavaCollections.iml" filepath="$PROJECT_DIR$/JavaCollections/JavaCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDSAlgo/JavaDSAlgo.iml" filepath="$PROJECT_DIR$/JavaDSAlgo/JavaDSAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDesignPatterns/JavaDesignPatterns.iml" filepath="$PROJECT_DIR$/JavaDesignPatterns/JavaDesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjectArea.iml" filepath="$PROJECT_DIR$/JavaProjectArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaThread/JavaThread.iml" filepath="$PROJECT_DIR$/JavaThread/JavaThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitTest/UnitTest.iml" filepath="$PROJECT_DIR$/UnitTest/UnitTest.iml" />
+    </modules>
+  </component>
+</project>
